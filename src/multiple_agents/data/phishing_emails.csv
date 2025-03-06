@@ -1,0 +1,12 @@
+email_id,subject,content,label
+1,"Account Update Required","Please update your account details",Phishing
+2,"Meeting Schedule","Team meeting at 2 PM tomorrow",Legitimate
+3,"Urgent: Bank Transfer","Your account needs verification",Phishing
+4,"Newsletter","Monthly company updates",Legitimate
+5,"Payment Confirmation","Confirm your payment details",Phishing
+6,"Invoice Payment","Please review and approve the attached invoice",Legitimate
+7,"Account Access","Your account has been locked due to suspicious activity",Phishing
+8,"Important Update","Your account has been updated",Legitimate
+9,"Bank Transfer","Please confirm your bank transfer details",Phishing
+10,"Account Verification","Verify your account details",Legitimate
+
